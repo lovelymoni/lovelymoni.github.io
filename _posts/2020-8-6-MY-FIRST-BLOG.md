@@ -1,6 +1,6 @@
 ---
 layout: post
-title: blogging like a hacker
+title: MY FIRST BLOG
 ---
 
 Hello guys It's Monica.
