@@ -1,6 +1,6 @@
 ---
 layout: post
-title:blogging like a hacker
+title: blogging like a hacker
 ---
 
 Hello guys It's Monica.
